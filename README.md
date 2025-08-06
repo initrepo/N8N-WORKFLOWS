@@ -457,4 +457,5 @@ This comprehensive collection includes workflows from:
 
 ---
 
-[中文](./README_ZH.md)
+**🚀 Automated project documentation** context engineered to work with any AI coding tool, ready to help you go from Idea to MVP faster and in some cases 1 shot your app. Visit https://www.initrepo.com
+
